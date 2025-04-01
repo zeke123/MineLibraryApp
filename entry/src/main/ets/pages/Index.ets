@@ -12,6 +12,12 @@ struct Index {
       this.todoBean = todoBean
       let name = todoBean.name
 
+      let hi:string = "hello"
+      hi = "hello world"
+
+
+
+
     })
   }
 
